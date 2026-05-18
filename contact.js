@@ -1,5 +1,5 @@
 const form = document.querySelector('.contact-form form');
-const whatsappNumber = "+2547113116911";
+const whatsappNumber = "+254113116911";
 
 form.addEventListener('submit', function(e) {
   e.preventDefault(); // prevent page refresh
