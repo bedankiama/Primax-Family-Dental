@@ -39,7 +39,7 @@ ${notes.value || 'No additional notes provided.'}
 Sent via Primax Family Dental Website
   `.trim();
 
-  const whatsappNumber = '+254713403101';
+  const whatsappNumber = '+2547113116911';
   const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 
   window.open(whatsappURL, '_blank');
